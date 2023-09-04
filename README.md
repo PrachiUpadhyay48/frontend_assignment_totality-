@@ -1,1 +1,1 @@
-# frontend_assignment_totality-
+# totalitycorp-frontend-challenge
